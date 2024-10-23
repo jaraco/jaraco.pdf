@@ -1,5 +1,3 @@
-__requires__ = ['pypdf', 'more-itertools']
-
 import argparse
 import os
 import io
